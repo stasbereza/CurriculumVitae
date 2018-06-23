@@ -1,0 +1,37 @@
+[
+    {
+        "id": "123",
+        "company": "Self-employed",
+        "location": "Kyiv, Ukraine",
+        "period": "05.2018 — present",
+        "position": "Front-End Developer"
+    },
+    {
+        "id": "456",
+        "company": "PrJSC Ventilation systems",
+        "location": "Kyiv, Ukraine",
+        "period": "03.2012 — 04.2018",
+        "position": "Product Marketing Manager"
+    },
+    {
+        "id": "789",
+        "company": "Ukravtozapchastina",
+        "location": "Kyiv, Ukraine",
+        "period": "01.2010 — 06.2011",
+        "position": "Brand manager"
+    },
+    {
+        "id": "987",
+        "company": "Ukrainian Automobile Corporation",
+        "location": "Kyiv, Ukraine",
+        "period": "07.2008 — 12.2009",
+        "position": "Market Analyst"
+    },
+    {
+        "id": "654",
+        "company": "Autoformula Plus",
+        "location": "Kyiv, Ukraine",
+        "period": "02.2005 — 08.2007",
+        "position": "Brand Manager"
+    }
+]

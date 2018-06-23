@@ -1,0 +1,14 @@
+[
+    {
+        "id": "123",
+        "degree": "Master, Marketing Management",
+        "eduspace": "Kyiv National Economic University named Vadim Getman",
+        "period": "09.2007 — 10.2010"
+    },
+    {
+        "id": "456",
+        "degree": "Specialist, Management of foreign-economic activity",
+        "eduspace": "Kiev Institute for the Humanities",
+        "period": "09.2001 — 06.2005"
+    }
+]

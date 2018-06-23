@@ -1,0 +1,38 @@
+.header {
+    display: flex;
+    justify-content: center;
+    padding: 36px 0;
+
+    & div {
+        margin-right: 32px;
+
+        & h1 {
+            font-weight: 700;
+            font-size: 54px;
+            line-height: 108px;
+        }
+
+        & span,
+        & p {
+            font-weight: 500;
+        }
+
+        & span {
+            display: inline-block;
+            font-size: 32px;
+            margin-bottom: 40px;
+        }
+
+        & p {
+            font-size: 24px;
+            line-height: 32px;
+            width: 540px;
+        }
+    }
+
+    & img {
+        width: 400px;
+        align-self: flex-end;
+        margin-top: 16px;
+    }
+}

@@ -1,0 +1,17 @@
+[
+    {
+        "id": "123",
+        "action": "Write",
+        "address": "stanislav.bereza@gmail.com"
+    },
+    {
+        "id": "456",
+        "action": "Call",
+        "address": "066-286-3275"
+    },
+    {
+        "id": "789",
+        "action": "LinkedIn",
+        "address": "https://www.linkedin.com/in/stanislav-bereza"
+    }
+]
